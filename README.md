@@ -4,6 +4,11 @@
 
 ---
 
+<p align="center">
+  <img src="https://raw.githubusercontent.com/Platane/snk/output/github-contribution-grid-snake-dark.svg" alt="snake animation" />
+</p>
+
+
 ## 🚀 About Us  
 We are **Team SynTech**, a group of passionate innovators and developers united by a common mission:  
 **to build meaningful solutions that address real-world challenges.**  
