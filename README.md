@@ -20,8 +20,9 @@ Our team thrives on creativity, collaboration, and cutting-edge technology to de
 ---
 
 
+
 <p align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:00F7FF,100:FF00FF&height=180&section=header&text=Team%20SynTech%20⚡&fontSize=40&fontColor=ffffff&animation=fadeIn&fontAlignY=35" />
+  <img src="https://i.gifer.com/7VE.gif" width="800" height="300" alt="Matrix Rain" />
 </p>
 
 
