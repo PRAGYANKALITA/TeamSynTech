@@ -21,9 +21,7 @@ Our team thrives on creativity, collaboration, and cutting-edge technology to de
 
 
 
-<p align="center">
-  <img src="https://i.gifer.com/7VE.gif" width="800" height="300" alt="Matrix Rain" />
-</p>
+
 
 
 
